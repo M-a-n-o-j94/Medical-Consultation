@@ -1,0 +1,10 @@
+torch
+faster-whisper
+google-generativeai
+speechrecognition
+gtts
+pydub
+fastapi
+uvicorn
+python-dotenv
+
